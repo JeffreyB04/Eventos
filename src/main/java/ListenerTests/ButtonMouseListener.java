@@ -18,7 +18,7 @@ public class ButtonMouseListener extends MouseAdapter implements MouseListener {
     public void mouseEntered(MouseEvent e){
         JButton b = (JButton) e.getSource(); //it does not compile if it is a text box
         c = b.getBackground();
-        b.setBackground(Color.cyan);
+        b.setBackground(Color.yellow);
     }
     @Override
     public void mouseExited(MouseEvent e){
