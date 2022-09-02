@@ -1,0 +1,6 @@
+Mouse click enter/exit
+Key type, key release/press
+
+Interfaz para "pegar" botón a los listener
+
+listeners distintos para guardar o cancelar, listeners iguales si son iguales logicas (botones de calculadora)
